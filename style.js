@@ -8,4 +8,4 @@ $(document).ready(function() {
       .html string.substr 0, i
 
   setInterval update, 70
-}
+})
